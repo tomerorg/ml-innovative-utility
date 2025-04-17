@@ -1,0 +1,13 @@
+{
+  "name": "ml-innovative-utility",
+  "version": "1.0.0",
+  "description": "Javascript ml utility with Webpack and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
